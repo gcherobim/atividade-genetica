@@ -1,0 +1,14 @@
+Fragmentos 	Tamanho 	Tempo
+Grande		30000		141.3933
+Médio		3000		14.1826
+Pequeno		300		1.4901
+
+Posição		Tamanho		Tempo
+Grande		10000		141.3933
+Médio		1000		142.0641
+Pequeno		100		140.7723
+
+Genoma		Tamanho		Tempo
+Grande		10000		141.3933
+Médio		1000		27.3213
+Pequeno		100		3.0277
